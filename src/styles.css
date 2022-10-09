@@ -1,0 +1,34 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.container {
+  height: auto;
+  margin: 25px;
+  background-color: rgb(234, 232, 243);
+}
+
+.label {
+  padding: 5px;
+}
+
+.btn {
+  display: flex;
+  justify-content: flex-end;
+  outline: 2px dashed rgb(230, 230, 234);
+}
+
+.data {
+  justify-content: flex-start;
+  margin-right: 80px;
+}
+.input {
+  padding: 10px;
+}
+
+.done {
+  text-decoration: line-through;
+}
+
+.done2 {
+}
